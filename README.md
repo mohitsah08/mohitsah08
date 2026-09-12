@@ -51,8 +51,10 @@ Digital ledger and bookkeeping application focused on making everyday business r
 <tr>
 <td width="50%">
 
-### 💍 PriShi
-A modern wedding website project built as a polished, highly visual web experience with responsive layouts and interactive sections.
+### 🤖 PriShi — Multi-Model AI System
+AI-powered system integrating multiple AI models into a unified platform, designed to make it easier to work with different models and build intelligent AI workflows from a single application.
+
+**Focus:** multi-model AI • LLM integration • AI orchestration • intelligent workflows
 
 [View repository →](https://github.com/mohitsah08/PriShi)
 
