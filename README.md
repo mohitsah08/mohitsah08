@@ -2,14 +2,15 @@
 
 # Hi, I'm Mohit Sah 👋
 
-### Engineering Student • Developer • Builder • AI & Web Enthusiast
+### Engineering Student · Developer · Builder · AI Enthusiast
 
-I build practical products that solve real problems, from AI-powered developer tools and lead intelligence to business websites and digital productivity systems.
+I build practical software products across **AI, automation, full-stack web development, and real-world business systems**. I like turning ideas into working products, connecting multiple technologies, and shipping things people can actually use.
 
-<p align="center">
-  <a href="https://x.com/mohitsah08"><img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.instagram.com/mohitsah08"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.facebook.com/share/1To1g5xUuv/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<p>
+  <a href="https://github.com/mohitsah08"><img src="https://img.shields.io/badge/GitHub-mohitsah08-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://x.com/mohitsah08"><img src="https://img.shields.io/badge/X-@mohitsah08-111827?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.instagram.com/mohitsah08"><img src="https://img.shields.io/badge/Instagram-@mohitsah08-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.facebook.com/share/1To1g5xUuv/"><img src="https://img.shields.io/badge/Facebook-Mohit%20Sah-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
 
 </div>
@@ -18,69 +19,86 @@ I build practical products that solve real problems, from AI-powered developer t
 
 ## 🚀 What I Build
 
-- 🤖 **AI & Automation** — agentic workflows, discovery systems, research tooling and productivity automation
-- 🌐 **Full-Stack Web Apps** — modern responsive products with strong UX and deployment-ready architecture
-- 💼 **Business Solutions** — websites, digital ledgers, restaurant systems, education platforms and internal tools
-- 🧠 **Developer Projects** — experiments with AI, APIs, databases, cloud deployment and developer workflows
+| Area | What I'm interested in |
+|---|---|
+| 🤖 **AI Systems** | Multi-model AI applications, LLM integrations, AI agents and intelligent workflows |
+| ⚡ **Automation** | Autonomous research, discovery, productivity and developer workflows |
+| 🌐 **Full-Stack** | Modern web applications, APIs, databases and responsive product experiences |
+| 💼 **Business Software** | Practical tools for businesses, education, restaurants and everyday workflows |
+| 🧪 **Experiments** | New AI APIs, developer tools, open-source projects and emerging technologies |
+
+---
 
 ## ⭐ Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔍 Huntlyst
-Autonomous company discovery and lead-intelligence platform designed to find qualifying prospects, research companies and structure actionable lead data.
+### 🔎 Huntlyst
+**Autonomous Company Discovery & Lead Intelligence**
 
-**Focus:** AI agents • research automation • lead intelligence
+A platform for discovering companies, researching prospects and structuring qualifying lead intelligence through an automated workflow.
+
+**Focus:** AI agents · research automation · lead intelligence
 
 [View repository →](https://github.com/mohitsah08/huntlyst)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📒 Digital Khata
-Digital ledger and bookkeeping application focused on making everyday business record-keeping simpler and more accessible.
+### 🤖 PriShi
+**Multi-Model AI System**
 
-**Focus:** product design • data management • business workflows
+An AI system that integrates multiple AI models into a unified platform, making it possible to work with different models and AI capabilities from a single application.
 
-[View repository →](https://github.com/mohitsah08/DigitalKhata0.2)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 PriShi — Multi-Model AI System
-AI-powered system integrating multiple AI models into a unified platform, designed to make it easier to work with different models and build intelligent AI workflows from a single application.
-
-**Focus:** multi-model AI • LLM integration • AI orchestration • intelligent workflows
+**Focus:** multi-model AI · LLM integration · AI orchestration · intelligent workflows
 
 [View repository →](https://github.com/mohitsah08/PriShi)
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🧾 WivaahVision
-Wedding-focused web product work combining design, responsive interfaces and production deployment.
+### 📒 Digital Khata
+**Digital Ledger & Bookkeeping**
+
+A digital bookkeeping system designed around practical business record-keeping and day-to-day ledger workflows.
+
+**Focus:** business software · data management · product engineering
+
+[View repository →](https://github.com/mohitsah08/DigitalKhata0.2)
+
+</td>
+<td width="50%" valign="top">
+
+### 💍 WivaahVision
+**Web Product**
+
+A web product project focused on building a polished, responsive and production-oriented digital experience.
 
 [View repository →](https://github.com/mohitsah08/wivaahvision)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏥 City Hospital
-A full-stack hospital website/application project focused on clear information architecture and practical user flows.
+**Hospital Web Application**
+
+A practical web project focused on presenting hospital information and building useful customer-facing workflows.
 
 [View repository →](https://github.com/mohitsah08/City-Hospital)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🍽️ Gupta Restaurant
-Restaurant web experience with menu-focused content, location integration and customer-facing information.
+**Restaurant Web Application**
+
+A customer-facing restaurant web project with menu and location-oriented information.
 
 [View repository →](https://github.com/mohitsah08/gupta-restaurant)
 
@@ -88,41 +106,63 @@ Restaurant web experience with menu-focused content, location integration and cu
 </tr>
 </table>
 
-## 🛠️ Technologies & Tools
+---
+
+## 🛠️ Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,html,css,tailwind,git,github,vercel,supabase,mongodb,mysql" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,html,css,tailwind,git,github,vercel,supabase,mongodb,mysql" alt="Technologies" />
 </p>
 
-## 📊 GitHub
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohitsah08&show_icons=true&hide_border=true&rank_icon=github" alt="Mohit's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitsah08&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohitsah08&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitsah08&hide_border=true" height="165" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsah08&layout=compact&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsah08&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
-## 🎯 Currently Learning & Building
+---
 
-- AI agents and autonomous workflows
-- Full-stack product engineering
-- Backend systems, APIs and databases
-- Better software architecture and deployment practices
-- Building products that are useful outside the classroom
+## 🧠 Currently Learning & Building
 
-## 🌍 Connect
+- 🤖 Multi-model AI systems and LLM-powered applications
+- 🧩 AI agents and autonomous workflows
+- 🌐 Full-stack product engineering
+- 🔌 APIs, databases and backend architecture
+- ☁️ Deployment, CI/CD and production workflows
+- 🛠️ Developer tools that make software creation faster and easier
 
-- **X:** [@mohitsah08](https://x.com/mohitsah08)
-- **Instagram:** [@mohitsah08](https://www.instagram.com/mohitsah08)
-- **Facebook:** [Mohit Sah](https://www.facebook.com/share/1To1g5xUuv/)
+---
+
+## 📌 Highlights
+
+- 🚀 Building and experimenting with AI-powered products
+- 🔎 Working on autonomous discovery and lead-intelligence workflows
+- 📒 Building practical business software such as Digital Khata
+- 🌐 Creating and deploying real-world web applications
+- 🧪 Exploring multiple AI providers and model integrations
+- 💻 Continuously learning by building rather than only following tutorials
+
+---
+
+## 🌍 Connect With Me
+
+<p>
+  <a href="https://x.com/mohitsah08">𝕏 @mohitsah08</a> ·
+  <a href="https://www.instagram.com/mohitsah08">Instagram @mohitsah08</a> ·
+  <a href="https://www.facebook.com/share/1To1g5xUuv/">Facebook</a>
+</p>
 
 ---
 
 <div align="center">
 
-### "Build useful things. Learn fast. Ship better."
+**Build → Learn → Ship → Improve**
 
 </div>
