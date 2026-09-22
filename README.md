@@ -12,10 +12,11 @@
 I build practical software products across **AI, automation, full-stack web development, and real-world business systems**. I like turning ideas into working products, connecting multiple technologies, and shipping things people can actually use.
 
 <p>
-  <a href="https://github.com/mohitsah08"><img src="https://img.shields.io/badge/GitHub-mohitsah08-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://x.com/mohitsah08"><img src="https://img.shields.io/badge/X-@mohitsah08-111827?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.instagram.com/mohitsah08"><img src="https://img.shields.io/badge/Instagram-@mohitsah08-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.facebook.com/share/1To1g5xUuv/"><img src="https://img.shields.io/badge/Facebook-Mohit%20Sah-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://github.com/mohitsah08"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://x.com/mohitsah08"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.instagram.com/mohitsah08"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.facebook.com/share/1To1g5xUuv/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.linkedin.com/in/mohitsah08/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 </div>
@@ -152,16 +153,6 @@ My contribution graph and activity are available directly on my GitHub profile:
 - 🌐 Creating and deploying real-world web applications
 - 🧪 Exploring multiple AI providers and model integrations
 - 💻 Continuously learning by building rather than only following tutorials
-
----
-
-## 🌍 Connect With Me
-
-<p>
-  <a href="https://x.com/mohitsah08">𝕏 @mohitsah08</a> ·
-  <a href="https://www.instagram.com/mohitsah08">Instagram @mohitsah08</a> ·
-  <a href="https://www.facebook.com/share/1To1g5xUuv/">Facebook</a>
-</p>
 
 ---
 
