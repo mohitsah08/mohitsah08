@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./github-cover.png" alt="Mohit Sah GitHub Cover" width="100%">
+</p>
+
+<br>
 <div align="center">
 
 # Hi, I'm Mohit Sah 👋
