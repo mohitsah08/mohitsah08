@@ -123,13 +123,12 @@ A customer-facing restaurant web project with menu and location-oriented informa
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohitsah08&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitsah08&hide_border=true" height="165" alt="GitHub Streak" />
-</p>
+My contribution graph and activity are available directly on my GitHub profile:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsah08&layout=compact&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/mohitsah08">
+    <img src="https://img.shields.io/badge/View%20GitHub%20Activity-mohitsah08-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Activity" />
+  </a>
 </p>
 
 ---
